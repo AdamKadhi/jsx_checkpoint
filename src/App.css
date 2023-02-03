@@ -1,0 +1,24 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 930px;
+  background-color: black;
+}
+
+img{
+  width: 420px;
+  height: 420px;
+  border-radius: 50%;
+}
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  border: 3px solid ;
+  border-radius: 30px;
+  background-color: grey;
+  
+}
